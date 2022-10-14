@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Khaki;
+  border-top: 1px solid MintCream;
 }
 
 nav {
-  background: Khaki;
+  background: MintCream;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
