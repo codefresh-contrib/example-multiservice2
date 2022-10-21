@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Coral;
+  border-top: 1px solid OldLace;
 }
 
 nav {
-  background: Coral;
+  background: OldLace;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
