@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Bisque;
+  border-top: 1px solid RebeccaPurple;
 }
 
 nav {
-  background: Bisque;
+  background: RebeccaPurple;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
