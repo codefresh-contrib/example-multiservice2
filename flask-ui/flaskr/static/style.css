@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid MediumAquaMarine;
+  border-top: 1px solid Fuchsia;
 }
 
 nav {
-  background: MediumAquaMarine;
+  background: Fuchsia;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
