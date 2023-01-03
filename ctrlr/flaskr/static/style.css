@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Azure;
+  border-top: 1px solid Gainsboro;
 }
 
 nav {
-  background: Azure;
+  background: Gainsboro;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
