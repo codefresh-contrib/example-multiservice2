@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Orchid;
+  border-top: 1px solid Pink;
 }
 
 nav {
-  background: Orchid;
+  background: Pink;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
