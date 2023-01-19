@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Cornsilk;
+  border-top: 1px solid DarkTurquoise;
 }
 
 nav {
-  background: Cornsilk;
+  background: DarkTurquoise;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
