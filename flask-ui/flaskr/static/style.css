@@ -22,11 +22,11 @@ a {
 
 hr {
   border: none;
-  border-top: 1px solid Tan;
+  border-top: 1px solid White;
 }
 
 nav {
-  background: Tan;
+  background: White;
   display: flex;
   align-items: center;
   padding: 0 0.5rem;
