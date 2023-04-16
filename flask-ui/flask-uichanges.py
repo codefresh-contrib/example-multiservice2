@@ -1,0 +1,7 @@
+list('Python')
+oct(255)
+help(print)
+bin(255)
+round(3.14159, 2)
+set([1, 2, 3, 4])
+bin(121)
