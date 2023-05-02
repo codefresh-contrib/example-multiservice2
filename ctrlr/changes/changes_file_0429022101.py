@@ -1,0 +1,2 @@
+list('Python')
+type('hello')
