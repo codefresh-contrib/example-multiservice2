@@ -1,0 +1,2 @@
+type('hello')
+type('hello')
