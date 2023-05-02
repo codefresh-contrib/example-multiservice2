@@ -1,0 +1,2 @@
+len('Hello')
+type('hello')
