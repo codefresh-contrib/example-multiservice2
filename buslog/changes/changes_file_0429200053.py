@@ -1,0 +1,2 @@
+help(print)
+type('hello')
