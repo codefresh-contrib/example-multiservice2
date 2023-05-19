@@ -1,0 +1,2 @@
+ord('A')
+list('Python')
