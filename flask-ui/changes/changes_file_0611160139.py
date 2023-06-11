@@ -1,0 +1,2 @@
+dir('hello')
+type('hello')
