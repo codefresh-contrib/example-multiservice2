@@ -1,0 +1,2 @@
+help(print)
+ord('A')

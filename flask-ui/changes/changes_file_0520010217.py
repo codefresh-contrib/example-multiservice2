@@ -1,0 +1,2 @@
+len('Hello')
+dir('hello')

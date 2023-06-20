@@ -1,0 +1,2 @@
+ord('A')
+len('Hello')

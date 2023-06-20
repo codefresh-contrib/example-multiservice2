@@ -1,0 +1,2 @@
+ord('A')
+dir('hello')
